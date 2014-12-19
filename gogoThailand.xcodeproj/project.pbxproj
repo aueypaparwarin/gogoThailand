@@ -13,6 +13,13 @@
 		2F668AAB1A3FDF1E00AAB759 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2F668AAA1A3FDF1E00AAB759 /* Images.xcassets */; };
 		2F668AAE1A3FDF1E00AAB759 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2F668AAC1A3FDF1E00AAB759 /* LaunchScreen.xib */; };
 		2F668ABA1A3FDF1E00AAB759 /* gogoThailandTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F668AB91A3FDF1E00AAB759 /* gogoThailandTests.swift */; };
+		2F668AC41A3FE15F00AAB759 /* gogoThailandlogo.png in Resources */ = {isa = PBXBuildFile; fileRef = 2F668AC31A3FE15F00AAB759 /* gogoThailandlogo.png */; };
+		2F668AC61A3FE60000AAB759 /* tregion.png in Resources */ = {isa = PBXBuildFile; fileRef = 2F668AC51A3FE60000AAB759 /* tregion.png */; };
+		2F668AC81A3FE8A700AAB759 /* tha.png in Resources */ = {isa = PBXBuildFile; fileRef = 2F668AC71A3FE8A700AAB759 /* tha.png */; };
+		2F668ACA1A3FEF0F00AAB759 /* vananava.png in Resources */ = {isa = PBXBuildFile; fileRef = 2F668AC91A3FEF0F00AAB759 /* vananava.png */; };
+		2F668ACC1A3FEF1500AAB759 /* venezia.png in Resources */ = {isa = PBXBuildFile; fileRef = 2F668ACB1A3FEF1500AAB759 /* venezia.png */; };
+		2F668ACE1A4018AD00AAB759 /* VNlogo.png in Resources */ = {isa = PBXBuildFile; fileRef = 2F668ACD1A4018AD00AAB759 /* VNlogo.png */; };
+		2F668AD01A4018B900AAB759 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 2F668ACF1A4018B900AAB759 /* 1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +43,13 @@
 		2F668AB31A3FDF1E00AAB759 /* gogoThailandTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = gogoThailandTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2F668AB81A3FDF1E00AAB759 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2F668AB91A3FDF1E00AAB759 /* gogoThailandTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gogoThailandTests.swift; sourceTree = "<group>"; };
+		2F668AC31A3FE15F00AAB759 /* gogoThailandlogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gogoThailandlogo.png; sourceTree = "<group>"; };
+		2F668AC51A3FE60000AAB759 /* tregion.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tregion.png; sourceTree = "<group>"; };
+		2F668AC71A3FE8A700AAB759 /* tha.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tha.png; sourceTree = "<group>"; };
+		2F668AC91A3FEF0F00AAB759 /* vananava.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = vananava.png; sourceTree = "<group>"; };
+		2F668ACB1A3FEF1500AAB759 /* venezia.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = venezia.png; sourceTree = "<group>"; };
+		2F668ACD1A4018AD00AAB759 /* VNlogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = VNlogo.png; sourceTree = "<group>"; };
+		2F668ACF1A4018B900AAB759 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +104,13 @@
 		2F668AA11A3FDF1E00AAB759 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				2F668ACF1A4018B900AAB759 /* 1.png */,
+				2F668ACD1A4018AD00AAB759 /* VNlogo.png */,
+				2F668ACB1A3FEF1500AAB759 /* venezia.png */,
+				2F668AC91A3FEF0F00AAB759 /* vananava.png */,
+				2F668AC71A3FE8A700AAB759 /* tha.png */,
+				2F668AC51A3FE60000AAB759 /* tregion.png */,
+				2F668AC31A3FE15F00AAB759 /* gogoThailandlogo.png */,
 				2F668AA21A3FDF1E00AAB759 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -192,9 +213,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2F668ACC1A3FEF1500AAB759 /* venezia.png in Resources */,
+				2F668ACE1A4018AD00AAB759 /* VNlogo.png in Resources */,
+				2F668AC61A3FE60000AAB759 /* tregion.png in Resources */,
 				2F668AA91A3FDF1E00AAB759 /* Main.storyboard in Resources */,
+				2F668AC41A3FE15F00AAB759 /* gogoThailandlogo.png in Resources */,
+				2F668AC81A3FE8A700AAB759 /* tha.png in Resources */,
 				2F668AAE1A3FDF1E00AAB759 /* LaunchScreen.xib in Resources */,
+				2F668ACA1A3FEF0F00AAB759 /* vananava.png in Resources */,
 				2F668AAB1A3FDF1E00AAB759 /* Images.xcassets in Resources */,
+				2F668AD01A4018B900AAB759 /* 1.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -405,6 +433,7 @@
 				2F668ABF1A3FDF1E00AAB759 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2F668AC01A3FDF1E00AAB759 /* Build configuration list for PBXNativeTarget "gogoThailandTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +442,7 @@
 				2F668AC21A3FDF1E00AAB759 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
